@@ -43,5 +43,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/590c9edd-43ec-4e4a-bf83-25e57d4fa61b/deploy-status)](https://app.netlify.com/sites/react-firechat-alterclass/deploys)",
+  "main": "craco.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divy97/React-firechat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divy97/React-firechat/issues"
+  },
+  "homepage": "https://github.com/Divy97/React-firechat#readme"
 }
